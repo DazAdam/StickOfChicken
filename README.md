@@ -1,2 +1,2 @@
 # StickOfChicken
-This mod fires chickens. Inspired by ItsJerryAndHary's Coding Series.
+These are mods of randomness and fun :D.
